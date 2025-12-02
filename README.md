@@ -7,3 +7,5 @@ Reference Link:
 Official Link by Splunk - https://www.splunk.com/pdfs/technical-briefs/deploying-splunk-enterprise-on-aws.pdf
 
 Step by step guide - https://dev.to/shankarsurya035/how-to-install-manage-splunk-universal-forwarder-in-aws-ec2-2inj
+
+AWS official link guide to setup Splunk: https://aws.amazon.com/blogs/apn/monitoring-your-linux-workloads-on-aws-graviton-with-splunk-cloud/
